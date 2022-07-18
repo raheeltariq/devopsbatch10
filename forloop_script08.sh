@@ -10,3 +10,6 @@ done
 
 echo " "
 echo "bye"
+echo " "
+echo "bye"
+
