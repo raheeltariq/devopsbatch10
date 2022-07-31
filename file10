@@ -13,5 +13,9 @@ add course line 210 cisco
 add line 24 course redhat 
 add line 26 course vmware 
 add line 22 course cisco
+add line 24 course redhat 
+add line 26 course vmware 
+add line 22 course cisco
+
 
 
